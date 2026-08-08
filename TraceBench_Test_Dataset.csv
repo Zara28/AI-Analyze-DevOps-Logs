@@ -1,0 +1,101 @@
+log_text,label
+sendBlock: success: send blk_-,normal
+nextBlockOutputStream: success: create blockoutputstream for next block=blk_of /user/hadoop/localfile_blocks_client,normal
+complete: success: return(ow[class=boolean,normal
+verifiedByClient: success: blk_verified by client,normal
+OP: send block: success: sent blk_-,normal
+RPC:getBlockInfo: success: return(ow[class=class org.apache.hadoop.hdfs.protocol.block,normal
+getContentSummary: success: return(ow[class=class org.apache.hadoop.fs.contentsummary,normal
+OP: new blockSender: success: return(op_status_success),normal
+nextBlockOutputStream: success: create blockoutputstream for next block=blk_-of /user/hadoop/localfile_blocks_client,normal
+addBlock: fail: org.apache.hadoop.hdfs.server.namenode.notreplicatedyetexception: not replicated yet:/user/hadoop/localfile_blocks_client,normal
+RPC:setPermission: success: return(ow[class=void,normal
+blockSeekTo: ioexception: java.io.ioexception: could not obtain block: blk_-file=/user/hadoop/hdfsfile_blocks: org.apache.hadoop.hdfs.protocol.locatedblock@bfdbof /user/hadoop/hdfsfile_blocks,anomaly
+blockSeekTo: ioexception: java.io.ioexception: could not obtain block: blk_-file=/user/hadoop/hdfsfile_blocks: org.apache.hadoop.hdfs.protocol.locatedblock@cfcc of /user/hadoop/hdfsfile_blocks,anomaly
+RPC:mkdirs: success: return(ow[class=boolean,normal
+create: success: return(ow[class=void,normal
+blockSeekTo: ioexception: java.io.ioexception: could not obtain block: blk_-file=/user/hadoop/hdfsfile_blocks: org.apache.hadoop.hdfs.protocol.locatedblock@dfacof /user/hadoop/hdfsfile_blocks,anomaly
+newBlockReader: success: return a valid blockreader,normal
+setOwner: success: return(ow[class=void,normal
+blockSeekTo: success: chosennode = for blk_-of /user/hadoop/localfile_blocks_client,normal
+blockSeekTo: ioexception: java.io.ioexception: could not obtain block: blk_file=/user/hadoop/hdfsfile_blocks: org.apache.hadoop.hdfs.protocol.locatedblock@feddof /user/hadoop/hdfsfile_blocks,anomaly
+RPC:complete: success: return(ow[class=boolean,normal
+blockSeekTo: ioexception: java.io.ioexception: could not obtain block: blk_file=/user/hadoop/hdfsfile_blocks: org.apache.hadoop.hdfs.protocol.locatedblock@debcof /user/hadoop/hdfsfile_blocks,anomaly
+RPC:recoverBlock: success: return(ow[class=class org.apache.hadoop.hdfs.protocol.locatedblock,normal
+delete: success: return(ow[class=boolean,normal
+fs -copyToLocal: a user task,normal
+blockSeekTo: success: chosennode = for blk_-of /user/hadoop/dir_client/localfile_blocks_client,normal
+sendBlock: socketexception: java.net.socketexception: original exception : java.io.ioexception: broken pipe,normal
+blockSeekTo: ioexception: java.io.ioexception: could not obtain block: blk_file=/user/hadoop/hdfsfile_blocks: org.apache.hadoop.hdfs.protocol.locatedblock@cdfdof /user/hadoop/hdfsfile_blocks,anomaly
+blockSeekTo: ioexception: java.io.ioexception: could not obtain block: blk_-file=/user/hadoop/hdfsfile_blocks: org.apache.hadoop.hdfs.protocol.locatedblock@eab of /user/hadoop/hdfsfile_blocks,anomaly
+getListing: success: return(ow[class=class org.apache.hadoop.hdfs.protocol.directorylisting,normal
+OP: try new BlockReader: ioexception: java.net.noroutetohostexception: no route to host: failed to connect to /,normal
+checksumOk: fail: could not write to datanode/broken pipe,normal
+RPC:getBlockLocations: success: return(ow[class=class org.apache.hadoop.hdfs.protocol.locatedblocks,normal
+sendBlock: success: send blk_,normal
+OP: receive block: success: received a block,normal
+blockSeekTo: ioexception: java.io.ioexception: could not obtain block: blk_-file=/user/hadoop/hdfsfile_blocks: org.apache.hadoop.hdfs.protocol.locatedblock@efd of /user/hadoop/hdfsfile_blocks,anomaly
+blockSeekTo: ioexception: java.io.ioexception: could not obtain block: blk_-file=/user/hadoop/hdfsfile_blocks: org.apache.hadoop.hdfs.protocol.locatedblock@cfab of /user/hadoop/hdfsfile_blocks,anomaly
+RPC:rename: success: return(ow[class=boolean,normal
+blockSeekTo: ioexception: java.io.ioexception: could not obtain block: blk_-file=/user/hadoop/hdfsfile_blocks: org.apache.hadoop.hdfs.protocol.locatedblock@fe of /user/hadoop/hdfsfile_blocks,anomaly
+writeBlock: exception: java.net.sockettimeoutexception: millis timeout while waiting for channel to be ready for read. ch : java.nio.channels.socketchannel[connected local=/remote=/,anomaly
+nextBlockOutputStream: success: create blockoutputstream for next block=blk_of /user/hadoop/dir_client/localfile_blocks_client,normal
+OP: receive block: ioexception: java.net.sockettimeoutexception: millis timeout while waiting for channel to be ready for read. ch : java.nio.channels.socketchannel[connected local=/remote=/,normal
+fs -touchz: a user task,normal
+RPC:setOwner: success: return(ow[class=void,normal
+sendBlock: socketexception: java.net.socketexception: original exception : java.io.ioexception: connection reset by peer,normal
+readBlock: success:,normal
+blockSeekTo: ioexception: java.io.ioexception: could not obtain block: blk_-file=/user/hadoop/hdfsfile_blocks: org.apache.hadoop.hdfs.protocol.locatedblock@bebdeof /user/hadoop/hdfsfile_blocks,anomaly
+startBlockRecovery: success: return(ow[class=class org.apache.hadoop.hdfs.server.protocol.blockrecoveryinfo,normal
+blockSeekTo: success: chosennode = for blk_of /user/hadoop/dir_client/localfile_blocks_client,normal
+RPC:nextGenerationStamp: success: return(ow[class=long,normal
+fs -count: a user task,normal
+RPC:delete: success: return(ow[class=boolean,normal
+blockSeekTo: ioexception: java.io.ioexception: could not obtain block: blk_-file=/user/hadoop/hdfsfile_blocks: org.apache.hadoop.hdfs.protocol.locatedblock@bfof /user/hadoop/hdfsfile_blocks,anomaly
+blockSeekTo: success: chosennode = for blk_-of /user/hadoop/hdfsfile_blocks,normal
+checksumOk: success:,normal
+OP: new BlockReceiver: success: return op_status_success,normal
+blockSeekTo: ioexception: java.io.ioexception: could not obtain block: blk_-file=/user/hadoop/hdfsfile_blocks: org.apache.hadoop.hdfs.protocol.locatedblock@fdcaof /user/hadoop/hdfsfile_blocks,anomaly
+createBlockOutputStream: success: connected to,normal
+blockSeekTo: ioexception: java.io.ioexception: could not obtain block: blk_-file=/user/hadoop/hdfsfile_blocks: org.apache.hadoop.hdfs.protocol.locatedblock@ccec of /user/hadoop/hdfsfile_blocks,anomaly
+fs -rm: a user task,normal
+nextGenerationStamp: success: return(ow[class=long,normal
+RPC:getFileInfo: success: return(ow[class=class org.apache.hadoop.hdfs.protocol.hdfsfilestatus,normal
+getBlockLocations: success: return(ow[class=class org.apache.hadoop.hdfs.protocol.locatedblocks,normal
+OP: send block: success: sent blk_,normal
+writeBlock: exception: java.net.noroutetohostexception: no route to host,normal
+errorReport: success: return(ow[class=void,normal
+writeBlock: success:,normal
+updateBlock: success: return(ow[class=void,normal
+receiveBlock: success: received a block,normal
+rename: success: return(ow[class=boolean,normal
+blockSeekTo: success: chosennode = for blk_of /user/hadoop/localfile_blocks_client,normal
+OP: connect next Datanode: ioexception: java.io.eofexception: failed to connect to,normal
+RPC:getProtocolVersion: success: return(ow[class=long,normal
+RPC:startBlockRecovery: success: return(ow[class=class org.apache.hadoop.hdfs.server.protocol.blockrecoveryinfo,normal
+blockSeekTo: success: chosennode = for blk_of /user/hadoop/hdfsfile_blocks,normal
+blockSeekTo: ioexception: java.io.ioexception: could not obtain block: blk_-file=/user/hadoop/hdfsfile_blocks: org.apache.hadoop.hdfs.protocol.locatedblock@ecfcaof /user/hadoop/hdfsfile_blocks,anomaly
+getFileInfo: success: return(ow[class=class org.apache.hadoop.hdfs.protocol.hdfsfilestatus,normal
+OP: connect next Datanode: exception: first bad link is,normal
+RPC:addBlock: exception: remoteexception(org.apache.hadoop.ipc.remoteexception: org.apache.hadoop.hdfs.server.namenode.notreplicatedyetexception: not replicated yet:/user/hadoop/localfile_blocks_client,normal
+RPC:commitBlockSynchronization: success: return(ow[class=void,normal
+writeBlock: exception: java.io.eofexception,normal
+OP: try new BlockReader: ioexception: java.net.sockettimeoutexception: millis timeout while waiting for channel to be ready for read. ch : java.nio.channels.socketchannel[connected local=/remote=/failed to connect to /,normal
+RPC:reportBadBlocks: success: return(ow[class=void,normal
+OP: new BlockReceiver: error: first bad link is,anomaly
+fs -rmr: a user task,normal
+fs -chmod: a user task,normal
+RPC:getListing: success: return(ow[class=class org.apache.hadoop.hdfs.protocol.directorylisting,normal
+blockSeekTo: ioexception: java.io.ioexception: could not obtain block: blk_-file=/user/hadoop/hdfsfile_blocks: org.apache.hadoop.hdfs.protocol.locatedblock@dcbfof /user/hadoop/hdfsfile_blocks,anomaly
+createBlockOutputStream: ioexception: java.net.noroutetohostexception: no route to host: failed to connect to,normal
+writeBlock: exception: org.apache.hadoop.util.shell$exitcodeexception: du: cannot access `/home/hadoop/data/dfs.data.dir/current/blk_meta\': no such file or directory,normal
+blockSeekTo: ioexception: java.io.ioexception: could not obtain block: blk_-file=/user/hadoop/hdfsfile_blocks: org.apache.hadoop.hdfs.protocol.locatedblock@baece of /user/hadoop/hdfsfile_blocks,anomaly
+RPC:abandonBlock: success: return(ow[class=void,normal
+fs -mkdir: a user task,normal
+getBlockInfo: success: return(ow[class=class org.apache.hadoop.hdfs.protocol.block,normal
+commitBlockSynchronization: success: return(ow[class=void,normal
+chooseDataNode: success: chosennode = /,normal
+OP: connect next Datanode: success: connected to,normal
+bestNode: success: chosen bestnode = in nodes =,normal
+blockSeekTo: ioexception: java.io.ioexception: could not obtain block: blk_file=/user/hadoop/hdfsfile_blocks: org.apache.hadoop.hdfs.protocol.locatedblock@bdcdof /user/hadoop/hdfsfile_blocks,anomaly
+RPC:errorReport: success: return(ow[class=void,normal
