@@ -1,0 +1,101 @@
+log_text,label
+081109 203518 143 INFO dfs.DataNode$DataXceiver: Receiving block blk_-56578597257 src: /10.250.19.102:55866 dest: /10.250.19.102:50010,normal
+081109 203526 150 INFO dfs.DataNode$DataXceiver: Receiving block blk_-49162228320 src: /10.251.111.111:57633 dest: /10.251.111.111:50010,normal
+081109 203523 148 INFO dfs.DataNode$PacketResponder: PacketResponder 1 for block blk_-20208954105 terminating,normal
+081109 204324 233 INFO dfs.DataNode$PacketResponder: PacketResponder 2 for block blk_-75648501734 terminating,normal
+081110 101911 25114 INFO dfs.DataNode$DataXceiver: Receiving block blk_-78557113849 failed,anomaly
+081109 203523 148 INFO dfs.DataNode$PacketResponder: PacketResponder 1 for block blk_-76474866971 terminating,normal
+081109 203523 148 INFO dfs.DataNode$PacketResponder: PacketResponder 1 for block blk_-61719799106 terminating,normal
+081109 203518 143 INFO dfs.DataNode$DataXceiver: Receiving block blk_-19665239331 src: /10.250.19.102:50555 dest: /10.250.19.102:50010,normal
+081109 203526 150 INFO dfs.DataNode$DataXceiver: Receiving block blk_-46840214196 src: /10.251.111.111:57978 dest: /10.251.111.111:50010,normal
+081109 203518 143 INFO dfs.DataNode$DataXceiver: Receiving block blk_-39177570929 src: /10.250.19.102:51767 dest: /10.250.19.102:50010,normal
+081109 203518 143 INFO dfs.DataNode$DataXceiver: Receiving block blk_-85069257918 src: /10.250.19.102:59429 dest: /10.250.19.102:50010,normal
+081109 203526 150 INFO dfs.DataNode$DataXceiver: Receiving block blk_-71187724380 src: /10.251.111.111:53436 dest: /10.251.111.111:50010,normal
+081109 203518 143 INFO dfs.DataNode$DataXceiver: Receiving block blk_-30955924176 src: /10.250.19.102:56756 dest: /10.250.19.102:50010,normal
+081109 203526 150 INFO dfs.DataNode$DataXceiver: Receiving block blk_-42416705567 src: /10.251.111.111:51457 dest: /10.251.111.111:50010,normal
+081109 203526 150 INFO dfs.DataNode$DataXceiver: Receiving block blk_-91306136226 src: /10.251.111.111:51158 dest: /10.251.111.111:50010,normal
+081109 203518 143 INFO dfs.DataNode$DataXceiver: Receiving block blk_-11963423080 src: /10.250.19.102:53291 dest: /10.250.19.102:50010,normal
+081110 101911 25114 INFO dfs.DataNode$DataXceiver: Receiving block blk_-13723303183 failed,anomaly
+081109 203526 150 INFO dfs.DataNode$DataXceiver: Receiving block blk_-44803883956 src: /10.251.111.111:59961 dest: /10.251.111.111:50010,normal
+081109 203518 143 INFO dfs.DataNode$DataXceiver: Receiving block blk_-90157148511 src: /10.250.19.102:54271 dest: /10.250.19.102:50010,normal
+081109 203523 148 INFO dfs.DataNode$PacketResponder: PacketResponder 1 for block blk_-14440579469 terminating,normal
+081111 024412 13533 WARN dfs.DataNode$DataXceiver: 10.250.15.241:50010:Got exception while serving blk_-15712859486,anomaly
+081109 204324 233 INFO dfs.DataNode$PacketResponder: PacketResponder 2 for block blk_-39552804819 terminating,normal
+081109 204324 233 INFO dfs.DataNode$PacketResponder: PacketResponder 2 for block blk_-39816425403 terminating,normal
+081109 203526 150 INFO dfs.DataNode$DataXceiver: Receiving block blk_-45740343067 src: /10.251.111.111:57734 dest: /10.251.111.111:50010,normal
+081109 204655 346 WARN dfs.DataNode$DataXceiver: 10.251.30.6:50010:Got exception while serving blk_-43182243310 to /10.251.30.6:,anomaly
+081109 204324 233 INFO dfs.DataNode$PacketResponder: PacketResponder 2 for block blk_-90538828296 terminating,normal
+081109 203526 150 INFO dfs.DataNode$DataXceiver: Receiving block blk_-74534553378 src: /10.251.111.111:56713 dest: /10.251.111.111:50010,normal
+081109 203523 148 INFO dfs.DataNode$PacketResponder: PacketResponder 1 for block blk_-28317919416 terminating,normal
+081110 101911 25114 INFO dfs.DataNode$DataXceiver: Receiving block blk_-49435671184 failed,anomaly
+081109 203523 148 INFO dfs.DataNode$PacketResponder: PacketResponder 1 for block blk_-90537866647 terminating,normal
+081109 203523 148 INFO dfs.DataNode$PacketResponder: PacketResponder 1 for block blk_-31960776748 terminating,normal
+081109 204324 233 INFO dfs.DataNode$PacketResponder: PacketResponder 2 for block blk_-51955714955 terminating,normal
+081109 203523 148 INFO dfs.DataNode$PacketResponder: PacketResponder 1 for block blk_-33688703039 terminating,normal
+081111 024412 13533 WARN dfs.DataNode$DataXceiver: 10.250.15.241:50010:Got exception while serving blk_-13779496222,anomaly
+081109 204324 233 INFO dfs.DataNode$PacketResponder: PacketResponder 2 for block blk_-36635467541 terminating,normal
+081109 203523 148 INFO dfs.DataNode$PacketResponder: PacketResponder 1 for block blk_-33364153943 terminating,normal
+081109 203523 148 INFO dfs.DataNode$PacketResponder: PacketResponder 1 for block blk_-70259029697 terminating,normal
+081109 203526 150 INFO dfs.DataNode$DataXceiver: Receiving block blk_-92941566278 src: /10.251.111.111:50325 dest: /10.251.111.111:50010,normal
+081109 203523 148 INFO dfs.DataNode$PacketResponder: PacketResponder 1 for block blk_-42426125561 terminating,normal
+081109 204324 233 INFO dfs.DataNode$PacketResponder: PacketResponder 2 for block blk_-14902866319 terminating,normal
+081109 203518 143 INFO dfs.DataNode$DataXceiver: Receiving block blk_-49600373035 src: /10.250.19.102:58726 dest: /10.250.19.102:50010,normal
+081109 204324 233 INFO dfs.DataNode$PacketResponder: PacketResponder 2 for block blk_-10237865808 terminating,normal
+081109 203526 150 INFO dfs.DataNode$DataXceiver: Receiving block blk_-46221496839 src: /10.251.111.111:56385 dest: /10.251.111.111:50010,normal
+081109 203518 143 INFO dfs.DataNode$DataXceiver: Receiving block blk_-33603022378 src: /10.250.19.102:52988 dest: /10.250.19.102:50010,normal
+081109 203526 150 INFO dfs.DataNode$DataXceiver: Receiving block blk_-62427612226 src: /10.251.111.111:53552 dest: /10.251.111.111:50010,normal
+081109 203523 148 INFO dfs.DataNode$PacketResponder: PacketResponder 1 for block blk_-86133186621 terminating,normal
+081109 203523 148 INFO dfs.DataNode$PacketResponder: PacketResponder 1 for block blk_-34000720430 terminating,normal
+081109 203518 143 INFO dfs.DataNode$DataXceiver: Receiving block blk_-99238262876 src: /10.250.19.102:58182 dest: /10.250.19.102:50010,normal
+081109 204655 346 WARN dfs.DataNode$DataXceiver: 10.251.30.6:50010:Got exception while serving blk_-61354616977 to /10.251.30.6:,anomaly
+081109 203523 148 INFO dfs.DataNode$PacketResponder: PacketResponder 1 for block blk_-50155887577 terminating,normal
+081109 203523 148 INFO dfs.DataNode$PacketResponder: PacketResponder 1 for block blk_-15511654384 terminating,normal
+081111 024412 13533 WARN dfs.DataNode$DataXceiver: 10.250.15.241:50010:Got exception while serving blk_-60472940935,anomaly
+081109 203518 143 INFO dfs.DataNode$DataXceiver: Receiving block blk_-99683890524 src: /10.250.19.102:56561 dest: /10.250.19.102:50010,normal
+081109 203518 143 INFO dfs.DataNode$DataXceiver: Receiving block blk_-26385060513 src: /10.250.19.102:50013 dest: /10.250.19.102:50010,normal
+081109 204655 346 WARN dfs.DataNode$DataXceiver: 10.251.30.6:50010:Got exception while serving blk_-97015526602 to /10.251.30.6:,anomaly
+081109 203518 143 INFO dfs.DataNode$DataXceiver: Receiving block blk_-76217769805 src: /10.250.19.102:58594 dest: /10.250.19.102:50010,normal
+081109 204324 233 INFO dfs.DataNode$PacketResponder: PacketResponder 2 for block blk_-38864738576 terminating,normal
+081109 204655 346 WARN dfs.DataNode$DataXceiver: 10.251.30.6:50010:Got exception while serving blk_-22960652696 to /10.251.30.6:,anomaly
+081109 204324 233 INFO dfs.DataNode$PacketResponder: PacketResponder 2 for block blk_-25573981554 terminating,normal
+081109 203518 143 INFO dfs.DataNode$DataXceiver: Receiving block blk_-37363128416 src: /10.250.19.102:59505 dest: /10.250.19.102:50010,normal
+081109 204324 233 INFO dfs.DataNode$PacketResponder: PacketResponder 2 for block blk_-12125272785 terminating,normal
+081109 203523 148 INFO dfs.DataNode$PacketResponder: PacketResponder 1 for block blk_-42057800139 terminating,normal
+081109 203518 143 INFO dfs.DataNode$DataXceiver: Receiving block blk_-62955067506 src: /10.250.19.102:56195 dest: /10.250.19.102:50010,normal
+081109 203523 148 INFO dfs.DataNode$PacketResponder: PacketResponder 1 for block blk_-85978203887 terminating,normal
+081109 203523 148 INFO dfs.DataNode$PacketResponder: PacketResponder 1 for block blk_-88995421702 terminating,normal
+081109 203526 150 INFO dfs.DataNode$DataXceiver: Receiving block blk_-75975515770 src: /10.251.111.111:56990 dest: /10.251.111.111:50010,normal
+081109 204655 346 WARN dfs.DataNode$DataXceiver: 10.251.30.6:50010:Got exception while serving blk_-19918385072 to /10.251.30.6:,anomaly
+081111 024412 13533 WARN dfs.DataNode$DataXceiver: 10.250.15.241:50010:Got exception while serving blk_-50155381528,anomaly
+081110 101911 25114 INFO dfs.DataNode$DataXceiver: Receiving block blk_-74923448051 failed,anomaly
+081109 203526 150 INFO dfs.DataNode$DataXceiver: Receiving block blk_-34543146216 src: /10.251.111.111:56535 dest: /10.251.111.111:50010,normal
+081109 203526 150 INFO dfs.DataNode$DataXceiver: Receiving block blk_-77319663389 src: /10.251.111.111:55269 dest: /10.251.111.111:50010,normal
+081109 203523 148 INFO dfs.DataNode$PacketResponder: PacketResponder 1 for block blk_-19827714901 terminating,normal
+081110 101911 25114 INFO dfs.DataNode$DataXceiver: Receiving block blk_-41621583860 failed,anomaly
+081109 204324 233 INFO dfs.DataNode$PacketResponder: PacketResponder 2 for block blk_-49300990049 terminating,normal
+081110 101911 25114 INFO dfs.DataNode$DataXceiver: Receiving block blk_-15824657864 failed,anomaly
+081109 204324 233 INFO dfs.DataNode$PacketResponder: PacketResponder 2 for block blk_-74150451740 terminating,normal
+081109 204324 233 INFO dfs.DataNode$PacketResponder: PacketResponder 2 for block blk_-86051959088 terminating,normal
+081109 204324 233 INFO dfs.DataNode$PacketResponder: PacketResponder 2 for block blk_-51128627065 terminating,normal
+081109 203518 143 INFO dfs.DataNode$DataXceiver: Receiving block blk_-11011135423 src: /10.250.19.102:52938 dest: /10.250.19.102:50010,normal
+081109 203523 148 INFO dfs.DataNode$PacketResponder: PacketResponder 1 for block blk_-57398008143 terminating,normal
+081109 203523 148 INFO dfs.DataNode$PacketResponder: PacketResponder 1 for block blk_-24513504926 terminating,normal
+081109 203518 143 INFO dfs.DataNode$DataXceiver: Receiving block blk_-87609037417 src: /10.250.19.102:50330 dest: /10.250.19.102:50010,normal
+081109 203526 150 INFO dfs.DataNode$DataXceiver: Receiving block blk_-41068978911 src: /10.251.111.111:57751 dest: /10.251.111.111:50010,normal
+081111 024412 13533 WARN dfs.DataNode$DataXceiver: 10.250.15.241:50010:Got exception while serving blk_-91674382354,anomaly
+081111 024412 13533 WARN dfs.DataNode$DataXceiver: 10.250.15.241:50010:Got exception while serving blk_-65656003205,anomaly
+081110 101911 25114 INFO dfs.DataNode$DataXceiver: Receiving block blk_-79303157744 failed,anomaly
+081109 203518 143 INFO dfs.DataNode$DataXceiver: Receiving block blk_-81108622955 src: /10.250.19.102:57251 dest: /10.250.19.102:50010,normal
+081109 204324 233 INFO dfs.DataNode$PacketResponder: PacketResponder 2 for block blk_-48215020997 terminating,normal
+081111 024412 13533 WARN dfs.DataNode$DataXceiver: 10.250.15.241:50010:Got exception while serving blk_-26751809884,anomaly
+081109 203518 143 INFO dfs.DataNode$DataXceiver: Receiving block blk_-14888421693 src: /10.250.19.102:52731 dest: /10.250.19.102:50010,normal
+081109 203518 143 INFO dfs.DataNode$DataXceiver: Receiving block blk_-71620197216 src: /10.250.19.102:50198 dest: /10.250.19.102:50010,normal
+081109 204324 233 INFO dfs.DataNode$PacketResponder: PacketResponder 2 for block blk_-90903263939 terminating,normal
+081109 203518 143 INFO dfs.DataNode$DataXceiver: Receiving block blk_-48704067841 src: /10.250.19.102:54496 dest: /10.250.19.102:50010,normal
+081109 203523 148 INFO dfs.DataNode$PacketResponder: PacketResponder 1 for block blk_-55838030040 terminating,normal
+081109 204324 233 INFO dfs.DataNode$PacketResponder: PacketResponder 2 for block blk_-56780767934 terminating,normal
+081109 203518 143 INFO dfs.DataNode$DataXceiver: Receiving block blk_-97712544333 src: /10.250.19.102:56466 dest: /10.250.19.102:50010,normal
+081110 101911 25114 INFO dfs.DataNode$DataXceiver: Receiving block blk_-79482412905 failed,anomaly
+081109 203526 150 INFO dfs.DataNode$DataXceiver: Receiving block blk_-88325676689 src: /10.251.111.111:55318 dest: /10.251.111.111:50010,normal
+081109 203523 148 INFO dfs.DataNode$PacketResponder: PacketResponder 1 for block blk_-11126647370 terminating,normal
+081109 204324 233 INFO dfs.DataNode$PacketResponder: PacketResponder 2 for block blk_-34820997538 terminating,normal
